@@ -1,5 +1,6 @@
 ## Hi there! Welcome to Hexoraw 👋
 
-We are making random projects mostly for fun or learning.
+We are a small group doing various projects, mostly open source.\
+Visit our [website](https://hexoraw.com/) or view our projects on the [documentation](https://docs.hexoraw.com/)
 
-Useful resources - Documentation for all projects available at https://docs.hexoraw.com/
+> If you have a problem or questions, feel free to contact us at [support@hexoraw.com](mailto:support@hexoraw.com)
